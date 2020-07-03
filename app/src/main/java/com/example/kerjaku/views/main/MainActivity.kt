@@ -1,7 +1,8 @@
-package com.example.kerjaku
+package com.example.kerjaku.views.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.kerjaku.R
 
 class MainActivity : AppCompatActivity() {
 
